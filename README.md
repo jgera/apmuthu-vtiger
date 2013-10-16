@@ -15,10 +15,4 @@ This Fork
 Since the vTiger dev team only provides versioned releases for community usage, 
 this repo has been created to provide for easy community forked development on GitHub.
 
-Caveats
-=======
-
-<ul>
-<li>I will be able to update this repo only when I get time.</li>
-<li>Support provided by <a href="http://www.planettel.com.sg">PlaNetTel</a>, Singapore</li>
-</ul>
+This reopsitory is a Form of existing Repository by <a href="https://github.com/apmuthu">apmuthu</a>
